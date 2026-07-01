@@ -18,7 +18,7 @@ O MVP deve permitir consulta publica sem login e restringir cadastros, edicoes e
 
 ### 2.1 Stack principal
 
-- Frontend: HTML, CSS e JavaScript.
+- Frontend: HTML, CSS e JavaScript, bootstrap.
 - Backend: Supabase.
 - Banco de dados: PostgreSQL via Supabase.
 - Autenticacao: Supabase Auth.
